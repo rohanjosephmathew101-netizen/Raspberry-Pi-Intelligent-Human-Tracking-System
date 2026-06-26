@@ -33,11 +33,11 @@ More than **250+ hours** were invested in designing, fabricating, programming, i
 ### Complete System Assembly
 ### System Exterior Views - I
 
-![System Exterior Views I](system_exterior_views1.jpg)
+![System Exterior Views I](01_system_exterior_views.jpg)
 
 ### System Exterior Views - II
 
-![System Exterior Views II](system_exterior_views2.jpg)
+![System Exterior Views II](02_system_exterior_views.jpg)
 
 ## Demonstration
 
