@@ -38,7 +38,7 @@ More than **250+ hours** were invested in designing, fabricating, programming, i
 
 ## Demonstration
 
-![System Demonstration](tracking_demo.gif)
+![System Demonstration](demo_tracking.gif)
 
 ---
 
