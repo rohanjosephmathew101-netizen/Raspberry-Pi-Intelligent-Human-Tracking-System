@@ -134,3 +134,7 @@ Servo calibration and testing utility used to verify smooth pan-tilt movement an
 * Improved autonomous decision-making.
 * Enhanced mechanical stabilization.
 * Wireless remote monitoring and control.
+
+  ## Development Journey
+
+This project involved extensive mechanical fabrication, electronics integration, embedded software development, hardware testing, and iterative refinement. More than 250 hours were invested in designing, building, calibrating, and validating the complete system.
