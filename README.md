@@ -41,6 +41,8 @@ More than **250+ hours** were invested in designing, fabricating, programming, i
 
 ## Demonstration
 
+The demonstration below showcases the system performing real-time human face detection, automated pan-tilt tracking, and target alignment using computer vision. The system continuously tracks the detected face while integrating multiple embedded hardware components in real time.
+
 ![System Demonstration](demo_tracking.gif)
 
 ---
