@@ -92,29 +92,35 @@ The following images summarize the hardware components used during system develo
 * GPIO Programming
 
 ---
+## Software Modules
+
+### [face_tracking_dnn_improved.py](face_tracking_dnn_improved.py)
+
+Main application responsible for real-time face detection, automated pan-tilt tracking, sensor integration, LCD updates, LED control, and overall system coordination.
+
 ### [my_led_patterns.py](my_led_patterns.py)
 
-Contains custom NeoPixel LED patterns used to provide visual feedback during different system states such as standby mode, human detection, and system alerts.
+Contains custom NeoPixel LED patterns used for visual feedback during different system states and alerts.
 
 ### [shooting_mechanism.py](shooting_mechanism.py)
 
-Implements the projectile launching mechanism by controlling the relay module and actuator sequence responsible for launching soft projectiles upon user authorization.
+Controls the relay and actuator sequence responsible for launching soft projectiles upon user authorization.
 
 ### [hcsr04_distance.py](hcsr04_distance.py)
 
-Interfaces with the HC-SR04/US-100 ultrasonic sensor to perform real-time distance measurements, enabling proximity awareness and environmental sensing.
+Performs real-time distance measurement using the HC-SR04/US-100 ultrasonic sensor for proximity awareness.
 
 ### [i2c_scan.py](i2c_scan.py)
 
-Utility script used to scan and identify I2C devices connected to the Raspberry Pi, assisting in hardware integration, device verification, and troubleshooting.
+Utility script used to scan and identify I2C devices connected to the Raspberry Pi for hardware verification and troubleshooting.
 
 ### [relay_test.py](relay_test.py)
 
-Standalone testing utility developed to validate relay module operation and ensure reliable switching performance before system integration.
+Standalone testing utility used to validate relay module operation before system integration.
 
 ### [servo_te6st.py](servo_te6st.py)
 
-Servo calibration and testing utility used to verify smooth pan-tilt movement, actuator response, and overall servo performance.
+Servo calibration and testing utility used to verify smooth pan-tilt movement and actuator performance.
 
 
 ## Future Improvements
