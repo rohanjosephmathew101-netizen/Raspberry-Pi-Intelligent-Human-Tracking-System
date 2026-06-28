@@ -40,7 +40,7 @@ More than **250+ hours** were invested in designing, fabricating, programming, i
 
 ## Demonstration
 
-The demonstration below showcases the system performing real-time human face detection, automated pan-tilt tracking, and target alignment using computer vision. The system continuously tracks the detected face while integrating multiple embedded hardware components in real time.
+The demonstration below showcases the system performing real-time human face detection, automated pan-tilt tracking, and target alignment using computer vision. Upon detecting a human face, the system prompts the operator via the command-line interface to either authorize or deny projectile launch, while continuously maintaining real-time target tracking and hardware synchronization.
 
 ![System Demonstration](demo_tracking.gif)
 
