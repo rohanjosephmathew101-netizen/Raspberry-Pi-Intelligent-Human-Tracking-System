@@ -45,6 +45,12 @@ The demonstration below showcases the system performing real-time human face det
 ![System Demonstration](demo_tracking.gif)
 
 ---
+## Projectile Launch Mechanism
+
+The GIF below showcases the internal projectile launch mechanism integrated within the system. It demonstrates the actuation sequence and custom mechanical design responsible for launching soft projectiles upon operator authorization.
+
+![Projectile Launch Mechanism](Projectile%20Launch%20Mechanism.gif)
+
 
 ## Hardware Components
 
